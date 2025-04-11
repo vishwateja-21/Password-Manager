@@ -163,7 +163,7 @@ def menu():
         print("4. Delete a Password")
         print("5. Update a Password")
         print("6. Exit")
-        choice = input("Choose an option (1-5): ")
+        choice = input("Choose an option (1-6): ")
 
         if choice == "1":
             add_password()
