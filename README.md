@@ -35,3 +35,15 @@ Features include master password protection, password encryption, and full CRUD 
 4. Delete a Password
 5. Update a Password
 6. Exit
+
+## 🛡️ Security Notes
+
+> This project is intended for learning and personal use.  
+> While it uses industry-standard hashing and encryption, do not use this tool for storing real-world sensitive credentials without additional security layers such as salting, environment variable protection, secure file permissions, etc.
+
+---
+
+## 🧑‍💻 Author
+
+**Vishwa Teja Yerrawar**  
+GitHub: [@vishwateja-21][https://github.com/vishwateja-21]
